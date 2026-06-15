@@ -14,7 +14,7 @@ import Signup from "../components/Signup/Signup.jsx"
 import Home from "../components/Home/Home.jsx"
 import Profile from "../components/Profile/Profile.jsx"
 import AdminRoute from '../components/ProtectedRoute/AdminRoute.jsx'
-import AdminDashboard from '../components/Dashboard/AdminDashboard.jsx'
+import AdminDashboard from '../components/Admin/Dashboard/AdminDashboard.jsx'
 import './App.css'
 
 function App() {
